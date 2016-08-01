@@ -23,14 +23,10 @@ Prepare a new team in Slack and develop a python bot that can post twitter trend
 7. Any question is welcome in `"IS & DCS Training team" #subject-python` channel if related python
 8. All questions about practices please discuss or input in `#python_practice1and2`
 
-Neil Patrick U. Alvarez - Programmer and Github Integration
-
-Kyle Gio D. Gayao - Programmer and Webhook Integration
-
+##Members
+Neil Patrick U. Alvarez - Programmer (Github Integration)
+Kyle Gio D. Gayao - Programmer and Researcher
 Gilan Daniel R. Santos - Programmer and Top10 Filtering Function
-
 Josemaria Israel S. Santos - QA and Location Filtering Function
-
 Adrian T. Parnacio - Programmer and Trend Fetching Function
-
-Princess Joy S. Sicat - Main Programmer and Debugger
+Princess Joy S. Sicat - Main Programmer (Webhook Integration, Twitter REST API) and Debugger
