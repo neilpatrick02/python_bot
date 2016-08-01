@@ -12,7 +12,7 @@ access_token_secret = 'vQvu6x8QhTtDdkbXIALlkbqvU9FKRqnoPFARQCR9xCv6V'
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
-trends1 = api.trends_place(23424971) #TAIWAN
+trends1 = api.trends_place(1199477) #MANILA
 data = trends1[0] 
 trends = data['trends']
 names = [trend['name'] for trend in trends]
