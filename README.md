@@ -24,9 +24,9 @@ Prepare a new team in Slack and develop a python bot that can post twitter trend
 8. All questions about practices please discuss or input in `#python_practice1and2`
 
 ##Members
-* Neil Patrick U. Alvarez - Programmer (Github Integration)
-* Kyle Gio D. Gayao - Programmer and Researcher
-* Gilan Daniel R. Santos - Programmer and Top10 Filtering Function
-* Josemaria Israel S. Santos - QA and Location Filtering Function
-* Adrian T. Parnacio - Programmer and Trend Fetching Function
-* Princess Joy S. Sicat - Main Programmer (Webhook Integration, Twitter REST API) and Debugger
+* Alvarez, Neil Patrick U. - Programmer (Github Integration)
+* Gayao, Kyle Gio D. - Programmer (Researcher)
+* Santos, Gilan Daniel R. - Programmer (Top10 Filtering Function)
+* Santos, Josemaria Israel S. - QA (Location Filtering Function)
+* Parnacio, Adrian T. - Programmer (Trend Fetching Function)
+* Sicat, Princess Joy S. - Main Programmer (Webhook Integration, Twitter REST API) and QA
