@@ -8,7 +8,7 @@ url = 'https://hooks.slack.com/services/T1QQXUMTJ/B1WTB1C2F/olCrjUln3wt7MC7osFG7
 
 consumer_key = 'OKaaZZ8EIo1jme4FCpD2gdh9t'
 consumer_secret = 'ksLwFur4MFRDCiZ9jzBGXDs1A4NPqE3iXa1Fi3t1GSG5x5hOOI'
-access_token = 	'nnnnnnnnn-AnaAaaAanaAAAAAAaAAAaaaaAaAAAAaAAnaAAanA'  #278088267-I0sKpkMq1jOPGGUScJVBhtkoDeTRRAaSI9dEQe2R
+access_token = 	'nnnnnnnnn-AnaAaaAanaAAAAAAaAAAaaaaAaAAAAaAAnaAAanA' #278088267-I0sKpkMq1jOPGGUScJVBhtkoDeTRRAaSI9dEQe2R
 access_token_secret = 'vQvu6x8QhTtDdkbXIALlkbqvU9FKRqnoPFARQCR9xCv6V'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
